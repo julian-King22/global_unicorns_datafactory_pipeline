@@ -1,0 +1,9 @@
+{
+	"name": "global-unicorns-pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e56433e-9c22-47bb-a4c4-b5c95a08a570",
+		"tenantId": "98f20a95-be41-4875-a3cb-4bd22547276d"
+	}
+}
