@@ -29,3 +29,6 @@
 <br>
 
 ![pipeline image](./pipeline.png)
+
+
+## Power BI Dashboard soon be updated
