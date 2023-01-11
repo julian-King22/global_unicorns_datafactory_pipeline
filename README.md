@@ -31,4 +31,7 @@
 ![pipeline image](./pipeline.png)
 
 
-## Power BI Dashboard soon be updated
+<br>
+<br>
+
+![dashboard image](./dashboard.png)
